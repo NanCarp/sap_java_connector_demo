@@ -1,0 +1,7 @@
+#SAP Logon parameters!
+jco.client.lang=EN
+jco.client.client=001
+jco.client.passwd=xxxxxx
+jco.client.user=STONE
+jco.client.sysnr=00
+jco.client.ashost=192.168.65.100
