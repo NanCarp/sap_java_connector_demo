@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="sap_JCo3_demo:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/sap_JCo3_demo_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="sap_jco3_demo/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="sap_jco3_demo" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="D:/Java/sapjco3-NTAMD64-3.0.10/sapjco3.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
