@@ -1,7 +1,7 @@
 #SAP Logon parameters!
 jco.client.lang=EN
 jco.client.client=001
-jco.client.passwd=xxxxxx
-jco.client.user=STONE
-jco.client.sysnr=00
-jco.client.ashost=192.168.65.100
+jco.client.passwd=SAP11111
+jco.client.user=YEP001
+jco.client.sysnr=QAS
+jco.client.ashost=172.16.0.23
