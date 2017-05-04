@@ -9,6 +9,7 @@
         </element>
         <element id="directory" name="lib">
           <element id="file-copy" path="D:/Java/sapjco3-NTAMD64-3.0.10/sapjco3.jar" />
+          <element id="file-copy" path="D:/server/maven/repo/junit/junit/4.12/junit-4.12.jar" />
         </element>
       </element>
     </root>
